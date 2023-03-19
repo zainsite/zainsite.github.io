@@ -1,2 +1,0 @@
-# zainsite.github.io
-portfolio
